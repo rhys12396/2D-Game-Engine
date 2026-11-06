@@ -1,0 +1,37 @@
+# ninja log v7
+2	104	8156382991771763	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	f8abbc1646caea09
+2	104	8156382991771763	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	f8abbc1646caea09
+104	76638	8156383757052076	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	443fbbecb9cf1518
+104	76638	8156383757052076	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	443fbbecb9cf1518
+3	239	8156388679266476	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	fcb4bda6fbb099a8
+3	239	8156388679266476	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	fcb4bda6fbb099a8
+239	3351	8156388712609224	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	cf7bf093959b04f2
+239	3351	8156388712609224	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	cf7bf093959b04f2
+3351	3445	8156388713572605	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	c38355e1acb18751
+3351	3445	8156388713572605	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	c38355e1acb18751
+3446	3538	8156388714502553	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	733e50316ab83676
+3446	3538	8156388714502553	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	733e50316ab83676
+3538	3632	8156388715432539	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	6051a9cb2062b8f8
+3538	3632	8156388715432539	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	6051a9cb2062b8f8
+3632	3732	8156388716348459	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	e45650e8f8a7588b
+3632	3732	8156388716348459	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	e45650e8f8a7588b
+3732	3872	8156388717836963	CMakeFiles/sfml-populate-complete	b7e0b8ac3c270c90
+3732	3872	8156388717836963	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	b7e0b8ac3c270c90
+3732	3872	8156388717836963	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	b7e0b8ac3c270c90
+3732	3872	8156388717836963	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	b7e0b8ac3c270c90
+3	235	8156389417758100	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	fcb4bda6fbb099a8
+3	235	8156389417758100	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	fcb4bda6fbb099a8
+235	3359	8156389451192925	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	cf7bf093959b04f2
+235	3359	8156389451192925	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	cf7bf093959b04f2
+3359	3454	8156389452112880	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	c38355e1acb18751
+3359	3454	8156389452112880	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	c38355e1acb18751
+3454	3545	8156389453074301	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	733e50316ab83676
+3454	3545	8156389453074301	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	733e50316ab83676
+3546	3637	8156389453983919	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	6051a9cb2062b8f8
+3546	3637	8156389453983919	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	6051a9cb2062b8f8
+3637	3730	8156389454917080	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	e45650e8f8a7588b
+3637	3730	8156389454917080	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	e45650e8f8a7588b
+3730	3858	8156389456181191	CMakeFiles/sfml-populate-complete	b7e0b8ac3c270c90
+3730	3858	8156389456181191	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	b7e0b8ac3c270c90
+3730	3858	8156389456181191	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	b7e0b8ac3c270c90
+3730	3858	8156389456181191	D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	b7e0b8ac3c270c90

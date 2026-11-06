@@ -1,0 +1,37 @@
+# ninja log v7
+2	102	8156383897237005	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	5759ddf0a494dc90
+2	102	8156383897237005	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-mkdir	5759ddf0a494dc90
+102	57488	8156384471061997	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	87ab1f16d218e19
+102	57488	8156384471061997	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-download	87ab1f16d218e19
+3	242	8156388726519324	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	9e90d3c15604f288
+3	242	8156388726519324	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	9e90d3c15604f288
+242	3375	8156388760120680	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	9a62edf21ec0c5b3
+242	3375	8156388760120680	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	9a62edf21ec0c5b3
+3375	3467	8156388761050067	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	e3d20af951c056bb
+3375	3467	8156388761050067	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	e3d20af951c056bb
+3467	3559	8156388761950054	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	c5be304d98c02ff2
+3467	3559	8156388761950054	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	c5be304d98c02ff2
+3559	3649	8156388762876425	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	75fadb28916be37b
+3559	3649	8156388762876425	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	75fadb28916be37b
+3650	3740	8156388763775352	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	4fde878c9c5985d9
+3650	3740	8156388763775352	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	4fde878c9c5985d9
+3740	3913	8156388765188300	CMakeFiles/freetype-populate-complete	ea74c164d63e5cae
+3740	3913	8156388765188300	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	ea74c164d63e5cae
+3740	3913	8156388765188300	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	ea74c164d63e5cae
+3740	3913	8156388765188300	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	ea74c164d63e5cae
+3	254	8156389463208053	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	9e90d3c15604f288
+3	254	8156389463208053	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-update	9e90d3c15604f288
+255	3383	8156389496893794	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	9a62edf21ec0c5b3
+255	3383	8156389496893794	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-patch	9a62edf21ec0c5b3
+3383	3475	8156389497822080	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	e3d20af951c056bb
+3383	3475	8156389497822080	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-configure	e3d20af951c056bb
+3476	3566	8156389498725319	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	c5be304d98c02ff2
+3476	3566	8156389498725319	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-build	c5be304d98c02ff2
+3566	3659	8156389499634290	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	75fadb28916be37b
+3566	3659	8156389499634290	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-install	75fadb28916be37b
+3660	3750	8156389500561544	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	4fde878c9c5985d9
+3660	3750	8156389500561544	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-test	4fde878c9c5985d9
+3750	3889	8156389501930579	CMakeFiles/freetype-populate-complete	ea74c164d63e5cae
+3750	3889	8156389501930579	freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	ea74c164d63e5cae
+3750	3889	8156389501930579	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/CMakeFiles/freetype-populate-complete	ea74c164d63e5cae
+3750	3889	8156389501930579	D:/CPP/2D Game Engine/build/_deps/freetype-subbuild/freetype-populate-prefix/src/freetype-populate-stamp/freetype-populate-done	ea74c164d63e5cae

@@ -1,0 +1,3 @@
+D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+D:/CPP/2D Game Engine/build/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
